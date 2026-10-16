@@ -1,6 +1,6 @@
 cask "gimbal" do
-  version "0.13.41"
-  sha256 "c26e3fa76467696670652fee05ab5fdb1be7098fa3bd0127f317b09c32fc09d2"
+  version "0.13.43"
+  sha256 "964ae3536603ab5ec3b28da7a5cffb438bcc218d23e42697255bb122ae153e1a"
 
   url "https://github.com/tylergannon/gimbal/releases/download/v#{version}/gimbal_#{version}_darwin_arm64.tar.gz"
   name "Gimbal"
