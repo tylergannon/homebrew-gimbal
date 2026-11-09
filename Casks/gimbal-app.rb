@@ -1,6 +1,6 @@
 cask "gimbal-app" do
-  version "0.20.4"
-  sha256 "6ec6aa9c7cbef0e3e11b63edb3ce5a53f24f85bfaff1685b48d377d5591ecd02"
+  version "0.20.5"
+  sha256 "9f2bd189c5e62aec9b1ac7a56a82f41cc0f9785d0d8d1049785749f19c6cfeea"
 
   url "https://github.com/tylergannon/gimbal/releases/download/v#{version}/Gimbal-#{version}-macos-arm64.dmg"
   name "Gimbal"
